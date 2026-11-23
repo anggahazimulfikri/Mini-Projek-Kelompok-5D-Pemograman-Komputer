@@ -21,6 +21,10 @@ Program Mini Project 5D.py
 - Program Mini Project 5D.py : program utama
 - Nutrisi_pangan_Indonesia.csv : dataset
 
+selamat menggunakan program
+
+
+
                
                
                
