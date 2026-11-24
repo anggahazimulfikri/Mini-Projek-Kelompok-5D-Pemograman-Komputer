@@ -113,7 +113,7 @@ else:
     jenis_kelamin = ""
     while jenis_kelamin != "L" and jenis_kelamin != "P":
         jenis_kelamin = input(f"{'Jenis kelamin (L/P)':<{LEBAR}}: ").strip().upper()
-    usia = input_data(f"{'Usia (tahun, 13-100)':<{LEBAR}}: ", 13, 100)
+    usia = input_data(f"{'Usia (rentang 13-100 tahun)':<{LEBAR}}: ", 13, 100)
     berat_badan = input_data(f"{'Berat badan (kg)':<{LEBAR}}: ", 30, 200)
     
     energi_harian, protein_harian = hitung_kebutuhan(jenis_kelamin, usia, berat_badan)
