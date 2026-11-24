@@ -36,9 +36,9 @@ def baca_data(file_csv):
 def input_data(pesan, minimal, maksimal):
     while True:
         try:
-            angka = float(input(pesan))
-            if minimal <= angka <= maksimal:
-                return angka
+            angka_usia = float(input(pesan))
+            if minimal <= angka_usia <= maksimal:
+                return angka_usia
         except ValueError:
             pass
         print("Input tidak valid. Masukkan angka", minimal, "sampai", maksimal)
