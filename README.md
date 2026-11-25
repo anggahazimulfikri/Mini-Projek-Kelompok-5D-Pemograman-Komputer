@@ -19,11 +19,11 @@ Nutrisi_pangan_Indonesia.csv (sumber: https://www.kaggle.com/datasets/anasfikrih
 Program Mini Project 5D.py
 
 ## Struktur File
-- Program Mini Project 5D.py : program utama
-- Nutrisi_pangan_Indonesia.csv : dataset
+- Program Mini Project 5D.py : Program Utama
+- Nutrisi_pangan_Indonesia.csv : Dataset
+- Laporan Mini Projek_5D_Halia Putri Ezona.pdf : Dokumen Laporan 
 
 Selamat Menggunakan Program
-
 
 
                
