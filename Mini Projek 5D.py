@@ -124,7 +124,7 @@ else:
 
         hasil = []
         while len(hasil) == 0:
-            kata = input(f"{'Nama makanan':<{LEBAR}}: ").strip().lower()
+            kata = input(f"{'Masukkan nama makanan spesifik':<{LEBAR}}: ").strip().lower()
             for m in data_valid:
                 if kata != "" and kata in m[0].lower() and len(hasil) < 10:
                     hasil.append(m)
