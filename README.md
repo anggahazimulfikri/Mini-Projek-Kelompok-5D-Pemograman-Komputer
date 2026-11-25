@@ -4,12 +4,13 @@
 ## Nama Asisten : Halia Putri Ezona
 ## Kelas        : TI D
 ## Anggota      : 
-- Abiyyu Nadhir Nugraha
-- Angga Hazimufikri
-- Keisha Mahya Shifa
-- Hana Nadezhda Nasution
+- Abiyyu Nadhir Nugraha  (2610933013)
+- Angga Hazimufikri      (2610931028)
+- Hana Nadezhda Nasution (2610932031)
+- Keisha Mahya Shifa     (2610931036)
 
-## Judul Program : Analisis Kandungan Gizi Makanan Berdasarkan Porsi Menggunakan Python untuk Memberikan Rekomendasi Kesehatan 
+## Judul Program 
+Analisis Kandungan Gizi Makanan Berdasarkan Porsi Menggunakan Python untuk Memberikan Rekomendasi Kesehatan 
 
 ## Dataset
 Nutrisi_pangan_Indonesia.csv (sumber: https://www.kaggle.com/datasets/anasfikrihanif/indonesian-food-and-drink-nutrition-dataset)
@@ -21,7 +22,7 @@ Program Mini Project 5D.py
 - Program Mini Project 5D.py : program utama
 - Nutrisi_pangan_Indonesia.csv : dataset
 
-selamat menggunakan program
+Selamat Menggunakan Program
 
 
 
