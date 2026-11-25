@@ -177,8 +177,7 @@ else:
                         print(f"    * {m[0]} ({m[1]:.0f} kkal)")
                         jumlah += 1
         print("Catatan: rekomendasi bersifat umum, bukan pengganti konsultasi tenaga kesehatan.")
-
-
+        print("\n y=ya, n=tidak")
         lanjut = input(f"\n{'Cek makanan lain? (y/n)':<{LEBAR}}: ").strip().lower()
 
     print("Terima kasih telah menggunakan program ini.")
